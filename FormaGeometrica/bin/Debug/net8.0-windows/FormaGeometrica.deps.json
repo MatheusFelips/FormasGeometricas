@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FormaGeometrica/1.0.0": {
+        "runtime": {
+          "FormaGeometrica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormaGeometrica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\mathe\Desktop\POO-2-2024\FormaGeometrica\FormaGeometrica\obj\Debug\net8.0-windows\FormaGeometrica.FrmForma.resources
+C:\Users\mathe\Desktop\POO-2-2024\FormaGeometrica\FormaGeometrica\obj\Debug\net8.0-windows\FormaGeometrica.Properties.Resources.resources
+C:\Users\mathe\Desktop\POO-2-2024\FormaGeometrica\FormaGeometrica\obj\Debug\net8.0-windows\FormaGeometrica.csproj.GenerateResource.cache
+C:\Users\mathe\Desktop\POO-2-2024\FormaGeometrica\FormaGeometrica\obj\Debug\net8.0-windows\FormaGeometrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\POO-2-2024\FormaGeometrica\FormaGeometrica\obj\Debug\net8.0-windows\FormaGeometrica.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\POO-2-2024\FormaGeometrica\FormaGeometrica\obj\Debug\net8.0-windows\FormaGeometrica.AssemblyInfo.cs
+C:\Users\mathe\Desktop\POO-2-2024\FormaGeometrica\FormaGeometrica\obj\Debug\net8.0-windows\FormaGeometrica.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\POO-2-2024\FormaGeometrica\FormaGeometrica\bin\Debug\net8.0-windows\FormaGeometrica.exe
+C:\Users\mathe\Desktop\POO-2-2024\FormaGeometrica\FormaGeometrica\bin\Debug\net8.0-windows\FormaGeometrica.deps.json
+C:\Users\mathe\Desktop\POO-2-2024\FormaGeometrica\FormaGeometrica\bin\Debug\net8.0-windows\FormaGeometrica.runtimeconfig.json
+C:\Users\mathe\Desktop\POO-2-2024\FormaGeometrica\FormaGeometrica\bin\Debug\net8.0-windows\FormaGeometrica.dll
+C:\Users\mathe\Desktop\POO-2-2024\FormaGeometrica\FormaGeometrica\bin\Debug\net8.0-windows\FormaGeometrica.pdb
+C:\Users\mathe\Desktop\POO-2-2024\FormaGeometrica\FormaGeometrica\obj\Debug\net8.0-windows\FormaGeometrica.dll
+C:\Users\mathe\Desktop\POO-2-2024\FormaGeometrica\FormaGeometrica\obj\Debug\net8.0-windows\refint\FormaGeometrica.dll
+C:\Users\mathe\Desktop\POO-2-2024\FormaGeometrica\FormaGeometrica\obj\Debug\net8.0-windows\FormaGeometrica.pdb
+C:\Users\mathe\Desktop\POO-2-2024\FormaGeometrica\FormaGeometrica\obj\Debug\net8.0-windows\FormaGeometrica.genruntimeconfig.cache
+C:\Users\mathe\Desktop\POO-2-2024\FormaGeometrica\FormaGeometrica\obj\Debug\net8.0-windows\ref\FormaGeometrica.dll
